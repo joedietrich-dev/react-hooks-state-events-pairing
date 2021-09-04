@@ -9,4 +9,9 @@ body {
 
 .App {
   text-align: center;
+  width: 100%;
+}
+
+iframe {
+  width: 100%;
 }
